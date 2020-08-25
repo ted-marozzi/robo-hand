@@ -1,5 +1,5 @@
 /*
-  This code is designed for my Hand V3 design.
+  This code is designed for my Hand V2 design.
   Created by Ted Marozzi.
 */
 #include <Arduino.h>
