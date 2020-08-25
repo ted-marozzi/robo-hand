@@ -4,7 +4,6 @@
 */
 #include <Arduino.h>
 
-
 // Pins
 #define FSR A3
 #define MOTOR_IN1 10
@@ -20,9 +19,6 @@ void openHand();
 void closeHand();
 bool toDigital(int analogRead, int THRESHOLD);
 void moveHand();
-
-
-
 
 // Variables
 bool isHandOpen = true;
