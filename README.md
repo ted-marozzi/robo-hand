@@ -1,3 +1,3 @@
 # robo-hand
 
-https://edward-marozzi.ddns.net/electronicprostheic.html
+https://ted-marozzi.github.io/portfolio/electronicprosthetic.html
